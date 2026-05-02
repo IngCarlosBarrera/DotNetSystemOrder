@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NWOMSystem.Api/NWOMSystem.Api.csproj" />
+  <Project Path="NWOMSystem.Application/NWOMSystem.Application.csproj" />
+  <Project Path="NWOMSystem.Domain/NWOMSystem.Domain.csproj" />
+  <Project Path="NWOMSystem.Infrastructure/NWOMSystem.Infrastructure.csproj" />
+</Solution>
